@@ -1,5 +1,6 @@
 
-![Image_segmentation_process](https://github.com/IoRTKETI/Pre-segmentation/assets/122510029/ad5bb6ec-2fc9-4f9a-b38e-12b2e1585692)
+![Image_segmentation_process](https://github.com/IoRTKETI/Pre-segmentation/assets/122510029/fc160f21-bf75-4cd7-8976-382405035071)
+
 
 ## Preparation
 ### CUDA 11.1 + Torch 1.9
