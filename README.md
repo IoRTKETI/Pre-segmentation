@@ -22,5 +22,5 @@
 - run ``` oneformer_json.ipynb ```
 
 ### (c) PanopticFCN Train Json/Image
-1. ``` python instanceIds.py <이미지 폴더 경로> <COCO JSON 파일 경로> ```  
-2. ``` python main.py <이미지 폴더 경로> ```
+- ``` python instanceIds.py <이미지 폴더 경로> <COCO JSON 파일 경로> ```
+- ``` python main.py <이미지 폴더 경로> ```
