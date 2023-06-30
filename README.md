@@ -1,3 +1,7 @@
+
+![Uploading Image_segmentation_process.png…]()
+
+
 # Pre-segmentation
 - Pre-segmentation using SOTA
 - oneFormer 기반으로 Json 파일 (pre-labeling 파일)을 출력하는 코딩 완료
