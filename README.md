@@ -1,6 +1,5 @@
 
-![Uploading Image_segmentation_process.png…]()
-
+![Image_segmentation_process](https://github.com/IoRTKETI/Pre-segmentation/assets/122510029/ad5bb6ec-2fc9-4f9a-b38e-12b2e1585692)
 
 # Pre-segmentation
 - Pre-segmentation using SOTA
