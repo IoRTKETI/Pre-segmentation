@@ -7,7 +7,9 @@
 ``` pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html ```
 
 ### Install detectron2
-``` https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.9/index.html ```
+``` python -m pip install 'git+https://github.com/facebookresearch/detectron2.git' ```
+``` git clone https://github.com/facebookresearch/detectron2.git ```
+``` python -m pip install -e detectron2 ```
 
 ### Install natten
 ``` pip3 install natten==0.14.2 -f https://shi-labs.com/natten/wheels/cu111/torch1.9/index.html ```
