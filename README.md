@@ -1,5 +1,4 @@
 
-![Image_segmentation_process](https://github.com/IoRTKETI/Pre-segmentation/assets/122510029/fc160f21-bf75-4cd7-8976-382405035071)
 
 
 ## Preparation
